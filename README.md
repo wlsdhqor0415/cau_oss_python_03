@@ -3,3 +3,6 @@
 
 ## 2023-04-06
 Homework#2, simple calculator 구현
+
+## 2023-05-11
+Homework#3, git commands(pull / log / diff / blame) 사용해서 변경 사항 확인 하기
