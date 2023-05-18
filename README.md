@@ -6,3 +6,6 @@ Homework#2, simple calculator 구현
 
 ## 2023-05-11
 Homework#3, git commands(pull / log / diff / blame) 사용해서 변경 사항 확인 하기
+
+## 2023-05-18
+Homework#4, figure 모듈 구현
